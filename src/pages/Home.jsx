@@ -1,13 +1,13 @@
-import Veggie from "../components/Veggie";
-import Popular from "../components/Popular";
+import Veggie from '../components/Veggie';
+import Popular from '../components/Popular';
 
 function Home() {
-  return (
-    <div>
-      <Veggie />
-      <Popular />
-    </div>
-  )
+	return (
+		<div>
+			<Veggie />
+			<Popular />
+		</div>
+	);
 }
 
-export default Home
+export default Home;
